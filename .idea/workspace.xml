@@ -1,0 +1,851 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/Modern_adv_js/exercise7/js/main.js" line="12" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="27baba58-d58d-4d13-8432-fa0ad2ceb8d4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/FunctionalProgrammingJS/fp9/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FunctionalProgrammingJS/fp9/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FunctionalProgrammingJS/mealCounter/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Modern_adv_js/exercise3/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Modern_adv_js/exercise3/javascript_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Modern_adv_js/exercise3/learnjs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Modern_adv_js/exercise3/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Modern_adv_js/exercise8/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Modern_adv_js/exercise8/javascript_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Modern_adv_js/exercise8/learnjs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Modern_adv_js/exercise8/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Modern_adv_js/exercise8/main.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/FunctionalProgrammingJS/mealCounter/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/FunctionalProgrammingJS/fp9/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/js_sandbox/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="492">
+              <caret line="83" column="25" lean-forward="true" selection-start-line="83" selection-start-column="25" selection-end-line="83" selection-end-column="25" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/FunctionalProgrammingJS/fp9/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Modern_adv_js/exercise4/learnjs.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/FunctionalProgrammingJS/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/FunctionalProgrammingJS/fp8_compose_curry/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Modern_adv_js/FunctionalExercise9/learnjs.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Modern_adv_js/exercise8/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="24" column="14" selection-end-line="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Modern_adv_js/exercise8/data.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="21" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/easyhttpawait/app.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/githubfinder/github.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Modern_adv_js/exercise7/js/main.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/loancalculator/app.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/booklist/appes6.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/weather/weather.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/booklist/app.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/FunctionalProgrammingJS/fp7/app.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/easyhttp/app.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/easyhttp/easyhttp.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/FunctionalProgrammingJS/fp8_compose_curry/app.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/module_pattern/js/domUtil.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/task_list/app.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/js_sandbox/app.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/app.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/index.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Modern_adv_js/exercise6/js/main.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Modern_adv_js/exercise7/js/stringUtil.js" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/githubfinder/ui.js" />
+        <option value="$PROJECT_DIR$/src/weather/localstorage.js" />
+        <option value="$PROJECT_DIR$/src/weather/index.html" />
+        <option value="$PROJECT_DIR$/src/weather/storage.js" />
+        <option value="$PROJECT_DIR$/src/weather/app.js" />
+        <option value="$PROJECT_DIR$/src/weather/weather.js" />
+        <option value="$PROJECT_DIR$/src/weather/ui.js" />
+        <option value="$PROJECT_DIR$/src/easyhttp2/app.js" />
+        <option value="$PROJECT_DIR$/src/tracalorie/index.html" />
+        <option value="$PROJECT_DIR$/src/tracalorie/app.js" />
+        <option value="$PROJECT_DIR$/src/js_sandbox/database.js" />
+        <option value="$PROJECT_DIR$/src/js_sandbox/animal.js" />
+        <option value="$PROJECT_DIR$/src/js_sandbox/index.html" />
+        <option value="$PROJECT_DIR$/src/this.js" />
+        <option value="$PROJECT_DIR$/src/this_object/app.js" />
+        <option value="$PROJECT_DIR$/src/Exercise2/Exercise2 - final/app.js" />
+        <option value="$PROJECT_DIR$/src/iife/app.js" />
+        <option value="$PROJECT_DIR$/src/exercise4/app.js" />
+        <option value="$PROJECT_DIR$/src/fp5/app.js" />
+        <option value="$PROJECT_DIR$/src/fp6/app.js" />
+        <option value="$PROJECT_DIR$/src/FunctionalProgrammingJS/app.js" />
+        <option value="$PROJECT_DIR$/src/FunctionalProgrammingJS/fp8/app.js" />
+        <option value="$PROJECT_DIR$/src/FunctionalProgrammingJS/fp8_compose_curry/app.js" />
+        <option value="$PROJECT_DIR$/src/FunctionalProgrammingJS/fp7/app.js" />
+        <option value="$PROJECT_DIR$/src/module_pattern/js/domUtil.js" />
+        <option value="$PROJECT_DIR$/src/module_pattern/js/stringUtil.js" />
+        <option value="$PROJECT_DIR$/src/js/main.js" />
+        <option value="$PROJECT_DIR$/src/module_pattern/js/generalUtil.js" />
+        <option value="$PROJECT_DIR$/src/module_pattern/js/main.js" />
+        <option value="$PROJECT_DIR$/src/module_pattern/index.html" />
+        <option value="$PROJECT_DIR$/src/exercise6/js/domUtil.js" />
+        <option value="$PROJECT_DIR$/src/exercise6/index.html" />
+        <option value="$PROJECT_DIR$/src/exercise6/js/stringUtil.js" />
+        <option value="$PROJECT_DIR$/src/exercise6 - start/js/main.js" />
+        <option value="$PROJECT_DIR$/src/exercise6/js/quizUtil.js" />
+        <option value="$PROJECT_DIR$/src/exercise6/js/main.js" />
+        <option value="$PROJECT_DIR$/src/modern_adv_js/exercise7/index.html" />
+        <option value="$PROJECT_DIR$/src/modern_adv_js/exercise7/js/stringUtil.js" />
+        <option value="$PROJECT_DIR$/src/modern_adv_js/exercise7/js/main.js" />
+        <option value="$PROJECT_DIR$/src/modern_adv_js/exercise7/js/quizUtil.js" />
+        <option value="$PROJECT_DIR$/src/modern_adv_js/exercise7/js/domUtil.js" />
+        <option value="$PROJECT_DIR$/src/Modern_adv_js/OOP Project/copypaste.js" />
+        <option value="$PROJECT_DIR$/src/Modern_adv_js/OOP Project/project/js/main.js" />
+        <option value="$PROJECT_DIR$/src/Modern_adv_js/Exercise2/Exercise2 - start/app.js" />
+        <option value="$PROJECT_DIR$/src/Modern_adv_js/exercise8/data.json" />
+        <option value="$PROJECT_DIR$/src/Modern_adv_js/exercise8/main.js" />
+        <option value="$PROJECT_DIR$/src/Modern_adv_js/FunctionalExercise9/app.js" />
+        <option value="$PROJECT_DIR$/src/FunctionalProgrammingJS/mealCounter/index.html" />
+        <option value="$PROJECT_DIR$/src/FunctionalProgrammingJS/fp9/index.html" />
+        <option value="$PROJECT_DIR$/src/FunctionalProgrammingJS/fp9/app.js" />
+        <option value="$PROJECT_DIR$/src/js_sandbox/app.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="91" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="javascript_bk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javascript_bk" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javascript_bk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javascript_bk" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javascript_bk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javascript_bk" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="iife" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javascript_bk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javascript_bk" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="js_sandbox" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javascript_bk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javascript_bk" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Modern_adv_js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javascript_bk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javascript_bk" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Modern_adv_js" type="462c0819:PsiDirectoryNode" />
+              <item name="exercise4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javascript_bk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javascript_bk" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Modern_adv_js" type="462c0819:PsiDirectoryNode" />
+              <item name="exercise6" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="$PROJECT_DIR$/node_modules/gulp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="$PROJECT_DIR$/node_modules/eslint" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="DockerRegistry" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Modern_adv_js" />
+      <recent name="$PROJECT_DIR$/src/Modern_adv_js/OOP Project/project" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/microposts" />
+      <recent name="$PROJECT_DIR$/src/await" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/modern_adv_js" />
+      <recent name="$PROJECT_DIR$/src/FunctionalProgrammingJS" />
+      <recent name="$PROJECT_DIR$/src/chucknorrisjokes" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.app.js (3)">
+    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/javascript_bk/src/FunctionalProgrammingJS/fp9/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/javascript_bk/src/FunctionalProgrammingJS/mealCounter/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="app.js (2)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/FunctionalProgrammingJS/fp9/app.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="app.js (3)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/js_sandbox/app.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/FunctionalProgrammingJS/fp8_compose_curry/app.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/FunctionalProgrammingJS/fp5/app.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/FunctionalProgrammingJS/fp8_compose_curry/app.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.index.html" />
+      <item itemvalue="JavaScript Debug.index.html (1)" />
+      <item itemvalue="Node.js.app.js" />
+      <item itemvalue="Node.js.app.js (2)" />
+      <item itemvalue="Node.js.app.js (3)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.app.js (3)" />
+        <item itemvalue="JavaScript Debug.index.html (1)" />
+        <item itemvalue="Node.js.app.js (2)" />
+        <item itemvalue="Node.js.app.js" />
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27baba58-d58d-4d13-8432-fa0ad2ceb8d4" name="Default Changelist" comment="" />
+      <created>1537315292031</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537315292031</updated>
+      <workItem from="1537315293326" duration="442000" />
+      <workItem from="1537315965166" duration="1560000" />
+      <workItem from="1537360680541" duration="14366000" />
+      <workItem from="1538137286724" duration="375000" />
+      <workItem from="1538137943093" duration="8771000" />
+      <workItem from="1538606257988" duration="10000" />
+      <workItem from="1538689856378" duration="24000" />
+      <workItem from="1538689900069" duration="504000" />
+      <workItem from="1538698911019" duration="59000" />
+      <workItem from="1538699136764" duration="8070000" />
+      <workItem from="1539376768830" duration="13938000" />
+      <workItem from="1540383633362" duration="113000" />
+      <workItem from="1540383769776" duration="16732000" />
+      <workItem from="1541252242804" duration="425000" />
+      <workItem from="1541252990200" duration="2667000" />
+      <workItem from="1541459076327" duration="9306000" />
+      <workItem from="1541522397546" duration="3086000" />
+      <workItem from="1541691942642" duration="99000" />
+      <workItem from="1541797146374" duration="5767000" />
+      <workItem from="1542301886594" duration="2080000" />
+      <workItem from="1542691563221" duration="876000" />
+      <workItem from="1542739817424" duration="197000" />
+      <workItem from="1542766585593" duration="59000" />
+      <workItem from="1542772412217" duration="13134000" />
+      <workItem from="1543069547421" duration="1745000" />
+      <workItem from="1543161027218" duration="9877000" />
+      <workItem from="1543879256296" duration="8225000" />
+      <workItem from="1546886125872" duration="1054000" />
+      <workItem from="1546899435140" duration="297000" />
+      <workItem from="1546902486105" duration="257000" />
+      <workItem from="1546914948056" duration="23000" />
+      <workItem from="1546914994526" duration="414000" />
+      <workItem from="1546915413282" duration="1643000" />
+      <workItem from="1546981358426" duration="15861000" />
+      <workItem from="1547138454805" duration="6811000" />
+      <workItem from="1547920383907" duration="48000" />
+      <workItem from="1547920453361" duration="6000" />
+      <workItem from="1547920733213" duration="27000" />
+      <workItem from="1548004127797" duration="4058000" />
+      <workItem from="1548609703670" duration="191000" />
+      <workItem from="1548644947827" duration="14959000" />
+      <workItem from="1549220068078" duration="13000" />
+      <workItem from="1549220103942" duration="2955000" />
+      <workItem from="1549252784806" duration="1001000" />
+      <workItem from="1549308607287" duration="413000" />
+      <workItem from="1549341299432" duration="172000" />
+      <workItem from="1549411374537" duration="16000" />
+      <workItem from="1549418337379" duration="593000" />
+      <workItem from="1549423474361" duration="388000" />
+      <workItem from="1549648944223" duration="599000" />
+      <workItem from="1549737160910" duration="280000" />
+      <workItem from="1549810556254" duration="1546000" />
+      <workItem from="1549836494669" duration="3986000" />
+      <workItem from="1550200153753" duration="2758000" />
+      <workItem from="1550327727295" duration="4000" />
+      <workItem from="1550327774940" duration="219000" />
+      <workItem from="1550329823966" duration="4442000" />
+      <workItem from="1550706725301" duration="676000" />
+      <workItem from="1550844016081" duration="3461000" />
+      <workItem from="1550886578528" duration="18429000" />
+      <workItem from="1551380490901" duration="12055000" />
+      <workItem from="1551843787313" duration="9601000" />
+      <workItem from="1552093792005" duration="761000" />
+      <workItem from="1552097178576" duration="11542000" />
+      <workItem from="1552232983489" duration="1124000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="245190000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.52751195" visible="true" weight="0.21978022" />
+      <window_info id="Structure" order="1" sideWeight="0.47248805" side_tool="true" weight="0.31318682" />
+      <window_info id="Gulp" order="2" sideWeight="0.51246107" side_tool="true" weight="0.20512821" />
+      <window_info id="npm" order="3" sideWeight="0.42226148" side_tool="true" weight="0.2771673" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.25717703" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23406479" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.29467085" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" weight="0.32894737" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="RNConsole" order="9" weight="0.3277512" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32810867" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="emBrowser" order="3" weight="0.32967034" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11904762" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Gulp" order="2" side_tool="true" />
+      <window_info id="npm" order="3" side_tool="true" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3291536" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3291536" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.2633229" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="RNConsole" order="9" weight="0.32810867" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3291536" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="emBrowser" order="3" weight="0.32967034" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/test/app.js</url>
+          <line>24</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/FunctionalProgrammingJS/fp6_reduce/app.js</url>
+          <line>11</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>80 &lt; grade &lt;= 90</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/module_pattern/js/stringUtil.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/module_pattern/js/generalUtil.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/module_pattern/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/module_pattern/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exercise6 - start/index.html" />
+    <entry file="file://$PROJECT_DIR$/src/exercise6 - start/js/main.js" />
+    <entry file="file://$PROJECT_DIR$/src/exercise6 - start/js/generalUtil.js" />
+    <entry file="file://$PROJECT_DIR$/src/Modern_adv_js/exercise6/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modern_adv_js/exercise7/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/git/platform/platform-smartrewards/ci_smartrewards.postman_environment.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modern_adv_js/OOP Project/project/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modern_adv_js/OOP Project/project/content.json" />
+    <entry file="file://$PROJECT_DIR$/src/Modern_adv_js/OOP Project/copypaste.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3097">
+          <caret line="163" column="9" selection-start-line="163" selection-start-column="9" selection-end-line="163" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modern_adv_js/OOP Project/project/css/font-awesome/css/font-awesome.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modern_adv_js/exercise6/js/domUtil.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="74" column="35" selection-end-line="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modern_adv_js/exercise6/js/generalUtil.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="15" lean-forward="true" selection-end-line="17" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modern_adv_js/exercise6/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="5" lean-forward="true" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modern_adv_js/exercise6/js/quizUtil.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="29" column="15" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modern_adv_js/exercise6/js/stringUtil.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="6" lean-forward="true" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modern_adv_js/exercise7/js/domUtil.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="13" lean-forward="true" selection-end-line="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modern_adv_js/exercise7/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="32" column="8" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modern_adv_js/exercise7/js/quizUtil.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" column="25" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modern_adv_js/exercise7/js/stringUtil.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="6" lean-forward="true" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/module_pattern/js/domUtil.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1729">
+          <caret line="91" selection-start-line="91" selection-end-line="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modern_adv_js/exercise3/learnjs.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modern_adv_js/exercise3/app.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/iife/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="6" lean-forward="true" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modern_adv_js/Exercise2/Exercise2 - start/js/main.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modern_adv_js/Exercise2/Exercise2 - start/learnjs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modern_adv_js/Exercise2/Exercise2 - start/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modern_adv_js/exercise8/main.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modern_adv_js/OOP Project/project/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modern_adv_js/OOP Project/project/JSON/content.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modern_adv_js/OOP Project/project/js/stringUtil.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modern_adv_js/OOP Project/project/js/domUtil.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="101" column="8" selection-start-line="101" selection-start-column="8" selection-end-line="101" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modern_adv_js/OOP Project/project/js/generalUtil.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modern_adv_js/OOP Project/project/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="34" column="10" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modern_adv_js/exercise8/javascript_logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modern_adv_js/exercise8/learnjs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modern_adv_js/FunctionalExercise9/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1197">
+          <caret line="63" selection-end-line="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FunctionalProgrammingJS/mealCounter/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FunctionalProgrammingJS/fp9/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modern_adv_js/exercise4/learnjs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FunctionalProgrammingJS/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FunctionalProgrammingJS/fp8_compose_curry/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modern_adv_js/FunctionalExercise9/learnjs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modern_adv_js/exercise8/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="24" column="14" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modern_adv_js/exercise8/data.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="21" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FunctionalProgrammingJS/fp9/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js_sandbox/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="83" column="25" lean-forward="true" selection-start-line="83" selection-start-column="25" selection-end-line="83" selection-end-column="25" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
