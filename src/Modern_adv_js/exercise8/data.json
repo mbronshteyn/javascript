@@ -1,0 +1,20 @@
+{
+  "title": "San Diego County cities",
+  "cities": [
+    {
+      "name": "San Diego"
+    },
+    {
+      "name": "La Mesa"
+    },
+    {
+      "name": "Poway"
+    },
+    {
+      "name": "Oceanside"
+    },
+    {
+      "name": "Escondido"
+    }
+  ]
+}
